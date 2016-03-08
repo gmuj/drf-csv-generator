@@ -1,2 +1,2 @@
 # drf-csv-generator
-Generates csv file based on django rest framework serializer
+Generates csv file using django rest framework serializer for validation
